@@ -1,0 +1,5 @@
+fullname="Adenaya Adebisi Adedolapo"
+ID="05985"
+language="Python"
+email="adedolapoadebisi@gmail.com"
+text=("Hello World,this is"+ fullname + "with HNGi7ID" + ID + "using" language + "for stage 2 task" + email)
